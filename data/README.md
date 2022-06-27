@@ -1,1 +1,0 @@
-Put training data into this folder before running the solution.
